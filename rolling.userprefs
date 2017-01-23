@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\GravityController.cs">
+    <Files>
+      <File FileName="Assets\Script\FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Item.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\DangerItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PlayerController.cs" Line="8" Column="2" />
+      <File FileName="Assets\Script\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ToMainScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GravityController.cs" Line="27" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

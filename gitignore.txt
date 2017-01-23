@@ -1,0 +1,7 @@
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+GzS_e14.CSharp.csproj
+.vs/GzS_e14/v14/.suo
+.vs/strangexeviousrepository/v14/.suo
